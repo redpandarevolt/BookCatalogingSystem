@@ -1,0 +1,24 @@
+0-387-95206-3	Pady	Misra	A Discipline of Multiprogramming	2001	45.5
+1-85233-384-7	Lewis	Tao	Adaptive Control of Nonsmooth Dynamic Systems	2001	65.0
+3-540-67713-5	Ray	Kloss	Advertising Worldwide	2001	35.0
+0-387-94937-2	Norman	Campbell	An Introduction to Environmental Biophysics	1998	31.5
+1-85233-219-0	Kieffer	Jaulin	Applied Interval Analysis	2001	55.0
+3-540-65367-8	Gordy	Vazirani	Approximation Algorithms	2001	24.5
+3-540-66334-7	Finn	Faber	Biotransformations in Organic Chemistry	2000	23.0
+3-540-66574-9	Kelly	Kapitaniak	Chaos for Engineers	2000	23.0
+3-540-65620-0	Clive	Berg	Computational Geometry	2000	23.0
+3-540-42074-6	Peric	Ferziger	Computational Methods for Fluid Dynamics	2002	35.0
+3-540-67481-0	Paul	Mueller	Computer Architecture	2000	35.0
+3-540-42243-9	Daduna	Vob	Computer-Aided Scheduling of Public Transport	2001	45.0
+3-540-41820-2	Leonis	Leonhard	Control of Electrical Drives	2001	42.0
+3-540-41613-7	Mirche	Omicini	Coordination of Internet Agents	2001	32.0
+3-540-41377-4	Morgan	Muther	Customer Relationship Management	2002	28.0
+3-540-41247-6	Seidler	Grellmann	Deformation and Fracture Behaviour of Polymers	2001	70.0
+1-85233-397-9	Rony	Vlietstra	Dictionary of Acronyms and Technical Abbreviations	2001	49.5
+3-540-41341-3	Baese	Meyer	Digital Signal Processing with Field Programmable Gate Arrays	2001	52.5
+0-387-95065-6	Cellier	Sarjoughian	Discrete Event Modeling and Simulation Technologies	2001	52.5
+3-540-41817-2	Rempel	Gusev	Disorder and Order in Strongly Nonstoichiometric Compounds	2001	70.0
+0-387-95192-X	Kumari	Coutinho	Dynamic Simulations of Multibody Systems	2001	52.5
+0-387-95144-X	Craig	Hummel	Electronic Properties of Materials	2001	52.5
+0-471-19047-0	Grand Master	Flash	Rapper's Delight	1978	50.0
+87-11-07559-7	Greg	Porter	A Life Once Lived	1988	26.99
